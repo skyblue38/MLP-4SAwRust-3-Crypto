@@ -4,7 +4,7 @@ In this project the RSA encryption system will be implemented (albeit without us
 
 This project is divided into six milestones. Click on the links below to read about each one...
 
-### [1. GCD and LCM](1-GDM-LCM.md)
+### [1. GCD and LCM](1-GCD-LCM.md)
 ### [2. Fast Exponentiation](2-Fast-Exponent.md)
 ### [3. Sieve of Eratosthenes](3-Sieve.md)
 ### [4. Factoring Numbers](4-Factoring.md)
@@ -12,3 +12,9 @@ This project is divided into six milestones. Click on the links below to read ab
 ### [6. RSA](6-RSA.md)
 
 For details of Hardware and Software setup for this project, see [0-Setup](0-Setup.md)
+
+## RESOURCES
+* [_Learn Rust in a Month of Lunches_](https://livebook.manning.com/book/learn-rust-in-a-month-of-lunches/introduction/v-7/) by David MacLeod
+* [_Grokking Algorithms_](https://livebook.manning.com/book/grokking-algorithms-second-edition/front/) by Aditya Y. Bhargava
+* _Essential Algorithms, Second Edition: A Practical Approach to Computer Algorithms Using Python and C#_ (Rod Stephens, Wiley, 2019) Chapters 2 and 16.
+* ...More resources provided with each Milestone.
