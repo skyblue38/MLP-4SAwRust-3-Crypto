@@ -11,4 +11,4 @@ This project is divided into six milestones. Click on the links below to read ab
 ### [5. Primality Testing](5-Primality.md)
 ### [6. RSA](6-RSA.md)
 
-For details of Hardware and Software setup for this project, see [0-Setup](MLP-4SAwRust-3Crypto/0-Setup.md)
+For details of Hardware and Software setup for this project, see [0-Setup](0-Setup.md)
