@@ -53,9 +53,9 @@ fn main() {
 }
 ```
 
-The complete program code can be downloaded here: [5-Primality](5-Primality.md)
+The complete program code can be downloaded here: 
 
-Results of compilation and execution are shown below:
+Results of compilation and execution are shown below: [m5_primality.rs](m5_primality.rs.md)
 ``` bash
 [sysadmin@centos8s m5_primality]$ cargo run --release
    Compiling m5_primality v0.1.0 (/home/sysadmin/MLP/FSAwRust-3-Crypto/m5_primality)
